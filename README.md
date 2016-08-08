@@ -18,5 +18,5 @@ Hello Antonin !
 
 Hello Benoit !
 
-Moi casse ta branche! 
+La branche de Benoit n'est pas cassée, elle est nickel !
 
