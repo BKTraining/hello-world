@@ -20,5 +20,5 @@ Hello Antonin !
 
 Hello Benoit !
 
-La branche de Benoit est pas cassée, elle n'est pas nickel !
+La branche de Benoit n'est pas cassée, elle est super nickel !
 
