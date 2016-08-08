@@ -10,4 +10,7 @@ Nouvelle modif du fichier
 Some changes to test branching.
 
 Bonjour je suis Antonin et j'utilise GIT!
-Modif de Benoit à 10h38.
+Modif de Benoit à 10h38. Ok.
+
+Hello Nicolas !
+
