@@ -1,5 +1,7 @@
 ﻿# hello-world
 
+j'ai corrigé un bug sur un projet open source !!!
+
 modif pour montrer sourcetree
 
 nouvelle fonctionnalité mise en place (mais il y avait un bug)
