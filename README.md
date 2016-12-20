@@ -1,4 +1,7 @@
 ﻿# hello-world
+
+nouvelle fonctionnalité mise en place
+
 modification pour présenter le mécanisme de commit/push
 
 les premiers tests
