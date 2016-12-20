@@ -1,7 +1,7 @@
 ﻿# hello-world
 modification pour présenter le mécanisme de commit/push
 
-premier test
+le premier test
 
 Creation d'une branche firstBranch
 
