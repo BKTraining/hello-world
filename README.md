@@ -1,6 +1,6 @@
 ﻿# hello-world
 
-nouvelle fonctionnalité mise en place
+nouvelle fonctionnalité mise en place (mais il y avait un bug)
 
 modification pour présenter le mécanisme de commit/push
 
